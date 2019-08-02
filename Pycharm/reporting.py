@@ -3,4 +3,4 @@ def download_csv(df):
 
 
 def download_graph(graph):
-    return graph.figure.savefig("BBDD.png") #Revisar
+    return graph.figure.savefig("BBDD.png") #Revisar 
