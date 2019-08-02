@@ -17,59 +17,60 @@ De acuerdo con las especificaciones descritas por European Health Interview Surv
 
 ## Leyenda:
 Country:
-BE: Belgium
-BG: Bulgaria
-CZ: Czechia
-DK: Denmark
-DE: Germany
-EE: Estonia
-IE: Ireland
-EL: Greece
-ES: Spain
-FR: France
-HR: Croatia
-IT: Italy
-CY: Cyprus
-LV: Latvia
-LT: Lithuania
-LU: Luxembourg
-HU: Hungary
-MT: Malta
-NL: Netherlands
-AT: Austria
-PL: Poland
-PT: Portugal
-RO: Romania
-SI: Slovenia
-SK: Slovakia
-FI: Finland
-SE: Sweden
-UK: United Kingdom
+- BE: Belgium
+- BG: Bulgaria
+- CZ: Czechia
+- DK: Denmark
+- DE: Germany
+- EE: Estonia
+- IE: Ireland
+- EL: Greece
+- ES: Spain
+- FR: France
+- HR: Croatia
+- IT: Italy
+- CY: Cyprus
+- LV: Latvia
+- LT: Lithuania
+- LU: Luxembourg
+- HU: Hungary
+- MT: Malta
+- NL: Netherlands
+- AT: Austria
+- PL: Poland
+- PT: Portugal
+- RO: Romania
+- SI: Slovenia
+- SK: Slovakia
+- FI: Finland
+- SE: Sweden
+- UK: United Kingdom
+
 Sex:
-F: Female
-M: Male
-T: Total
+- F: Female
+- M: Male
+- T: Total
+
 Age:
-Y15-24: Entre 15 y 24 años
-Y25-34: Entre 25 y 34 años
-Y35-44: Entre 35 y 44 años
-Y45-64: Entre 45 y 64 años
-Y65-74: Entre 65 y 74 años
-Y75+: Más de 75 años
+- Y15-24: Entre 15 y 24 años
+- Y25-34: Entre 25 y 34 años
+- Y35-44: Entre 35 y 44 años
+- Y45-64: Entre 45 y 64 años
+- Y65-74: Entre 65 y 74 años
+- Y75+: Más de 75 años
 
 ## ETIQUETAS:
 Códigos que señalan casuísticas específicas de un dato estadístico, se utilizan con fines aclaratorios:
-
-"u": unreliable
-"e": estimated
+- "u": unreliable
+- "e": estimated
 
 # ---------------------------------------------------------------
 
 ## ARCHIVOS DEL REPOSITORIO:
+- main.py : Pipeline
+- acquisition.py: Carga los datos
+- wrangling.py: Limpia los datos
+- analysis.py: Funciones para el análisis de datos
+- reporting.py: Funciones para exportar .csv y gráficas
 
-main.py : Pipeline
-acquisition.py: Carga los datos
-wrangling.py: Limpia los datos
-analysis.py: Funciones para el análisis de datos
-reporting.py: Funciones para exportar .csv y gráficas
-README.md : Descripción del proyecto
+- README.md : Descripción del proyecto
