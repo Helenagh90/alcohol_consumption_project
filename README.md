@@ -59,14 +59,12 @@ Age:
 - Y65-74: Entre 65 y 74 años
 - Y75+: Más de 75 años
 
-## ETIQUETAS:
+## Etiquetas:
 Códigos que señalan casuísticas específicas de un dato estadístico, se utilizan con fines aclaratorios:
 - "u": Low reliability
 - "e": Estimated
 
-# ---------------------------------------------------------------
-
-## ARCHIVOS DEL REPOSITORIO:
+# Archivos del repositorio:
 - main.py : Pipeline
 - acquisition.py: Carga los datos
 - wrangling.py: Limpia los datos
