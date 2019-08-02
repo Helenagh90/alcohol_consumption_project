@@ -1,5 +1,5 @@
 # Proyecto: Consumo de alcohol en Europa (2014)
-Frequency of alcohol consumption by sex, age and country of citizenship
+Frecuencia (diaria, semanal y mnsual) de consumo de alcohol por sexo, edad y país.
 
 ## Descripción:
 En este proyecto se trata con un dataset que contiene la frecuencia de consumo de alcohol en los diferentes países de Europa (2014), desglosados por frecuencia (diaria, semanal y mensual), sexo, edad y país.
