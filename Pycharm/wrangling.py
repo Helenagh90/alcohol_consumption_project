@@ -25,7 +25,7 @@ def delete_columns(df, column):
 
 
 def reset_index(df):
-    return df.reset_index(df, axis=1)
+    return df.reset_index(df, axis=1) 
 
 
 
