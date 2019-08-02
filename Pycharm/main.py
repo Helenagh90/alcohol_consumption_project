@@ -6,7 +6,7 @@ import seaborn as sns
 import acquisition
 import wrangling
 import analysis
-import reporting
+import reporting 
 
 
 def read_file(file):
