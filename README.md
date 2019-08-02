@@ -61,7 +61,7 @@ Age:
 
 ## ETIQUETAS:
 Códigos que señalan casuísticas específicas de un dato estadístico, se utilizan con fines aclaratorios:
-- "u": Unreliable
+- "u": Low reliability
 - "e": Estimated
 
 # ---------------------------------------------------------------
