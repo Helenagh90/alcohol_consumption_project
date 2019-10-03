@@ -16,40 +16,9 @@ De acuerdo con las especificaciones descritas por European Health Interview Surv
 "Manual metodológico, se supone que una bebida estándar contiene 10gr de alcohol. Sin embargo, cada país tiene su propia definición de bebida estándar que se adhiere a las normas emitidas por el gobierno y, por lo tanto, esto varía. Los datos se estandarizan para lograr la comparabilidad entre países."
 
 ## Leyenda:
-Country:
-- BE: Belgium
-- BG: Bulgaria
-- CZ: Czechia
-- DK: Denmark
-- DE: Germany
-- EE: Estonia
-- IE: Ireland
-- EL: Greece
-- ES: Spain
-- FR: France
-- HR: Croatia
-- IT: Italy
-- CY: Cyprus
-- LV: Latvia
-- LT: Lithuania
-- LU: Luxembourg
-- HU: Hungary
-- MT: Malta
-- NL: Netherlands
-- AT: Austria
-- PL: Poland
-- PT: Portugal
-- RO: Romania
-- SI: Slovenia
-- SK: Slovakia
-- FI: Finland
-- SE: Sweden
-- UK: United Kingdom
-
 Sex:
 - F: Female
 - M: Male
-- T: Total
 
 Age:
 - Y15-24: Entre 15 y 24 años
@@ -63,6 +32,8 @@ Age:
 Códigos que señalan casuísticas específicas de un dato estadístico, se utilizan con fines aclaratorios:
 - "u": Low reliability
 - "e": Estimated
+
+Estas han sido borradas de las columnas para poder trabajar con los valores numéricos.
 
 # Archivos del repositorio:
 - main.py : Pipeline
