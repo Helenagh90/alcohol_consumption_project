@@ -1,5 +1,5 @@
 # Proyecto: Consumo de alcohol en Europa (2014)
-Frecuencia (diaria, semanal y mensual) de consumo de alcohol por sexo, edad y país europeo en 2014.
+Frecuencia de consumo de alcohol por sexo, edad y país europeo en 2014.
 
 ## Descripción:
 En este proyecto se trata con un dataset que contiene la frecuencia de consumo de alcohol en los diferentes países de Europa (2014), desglosados por frecuencia (diaria, semanal y mensual), sexo, edad y país.
@@ -33,8 +33,10 @@ Códigos que señalan casuísticas específicas de un dato estadístico, se util
 - "u": Low reliability
 - "e": Estimated
 
-*Estas han sido borradas de las columnas para poder trabajar con los valores numéricos.
+*Estas han sido borradas en el csv tratado (BBDD.csv).
 
 # Archivos del repositorio:
-- JupyterNotebook.ipynb
+- Input/alcohol_consumption.tsv: csv original
+- Output/BBDD.csv: csv tratado y usado en Tableau
+- JupyterNotebook.ipynb: código
 - README.md : Descripción del proyecto
