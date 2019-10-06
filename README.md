@@ -35,6 +35,16 @@ Códigos que señalan casuísticas específicas de un dato estadístico, se util
 
 *Estas han sido borradas en el csv tratado (BBDD.csv).
 
+## Herramientas y librerías necesarias:
+
+Jupyter Notebook: https://jupyter.org/install
+
+|Librerías|
+| ------------- |
+| numpy  |
+| pandas | 
+| re |
+
 # Archivos del repositorio:
 - Input/alcohol_consumption.tsv: csv original
 - Output/BBDD.csv: csv tratado y usado en Tableau
