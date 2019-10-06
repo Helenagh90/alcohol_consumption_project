@@ -47,5 +47,6 @@ Jupyter Notebook: https://jupyter.org/install
 # Archivos del repositorio:
 - Input/alcohol_consumption.tsv: csv original
 - Output/BBDD.csv: csv tratado y usado en Tableau
+- Enlace a Tableau: enlace con el story
 - JupyterNotebook.ipynb: código
 - README.md : Descripción del proyecto
